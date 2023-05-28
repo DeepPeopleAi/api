@@ -1,27 +1,6 @@
 
->  新项目 [基于OpenAI的微信机器人](https://github.com/x-dr/wechat-bot)
 
-### Demo
 
-[https://chatai.1rmb.tk](https://chatai.1rmb.tk)
-
-> api
-
-```url
-https://openai.451024.xyz
-```
-
-```url
-https://openai.1rmb.tk
-```
-
-```url
-https://openai-proxy-api.pages.dev/api
-```
-
-### 演示站为公共服务，如有大规模使用需求请自行部署，演示站有点不堪重负
-
-![worker](./docs/img/worker.png)
 
 ## 1、利用Cloudflare Worker中转api.openai.com
 
